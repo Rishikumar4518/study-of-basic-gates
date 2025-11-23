@@ -64,8 +64,6 @@ Y= A⊕B
 
 **PROGRAM**
 
-
-
 Program for logic gates and verify its truth table in quartus using Verilog programming
 module aathi(a,b,c,d,e,f,g,h);
 input a,b;
