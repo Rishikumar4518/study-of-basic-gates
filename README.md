@@ -81,14 +81,18 @@ endmodule
  
  
 **Logic symbol & Truthtable**
+
 <img width="2560" height="1352" alt="image" src="https://github.com/user-attachments/assets/7fd1b51f-1eb3-4e8c-b482-fb50851b9b87" />
 
 
-**RTL realization Output:** <img width="1369" height="664" alt="Screenshot 2025-11-13 141805" src="https://github.com/user-attachments/assets/50f25427-b825-41eb-b09e-0f8515f2a459" />
+**RTL realization Output:**
+
+<img width="1369" height="664" alt="Screenshot 2025-11-13 141805" src="https://github.com/user-attachments/assets/50f25427-b825-41eb-b09e-0f8515f2a459" />
 
 **RTL**
 
 <img width="1914" height="1070" alt="Screenshot 2025-11-13 142625" src="https://github.com/user-attachments/assets/2d9decd1-55c0-4c5a-b7d7-2babb093e8c8" />
 
 
-**
+**Result**
+ Thus the truth table of logic gates in Quartus II using Verilog programming was successfully executed.
